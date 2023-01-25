@@ -1,4 +1,4 @@
-## Políticas de Segurança da Informação
+## Política de Segurança da Informação
 
 Uma política de segurança da informação (PSI) ou PoSIC (política de segurança das informações e comunicações) que tem por objetivo possibilitar o gerenciamento da segurança em uma organização, estabelecendo regras e padrões para proteção da informação. A política possibilita manter a confidencialidade, garantir que a informação não seja alterada ou perdida e permitir que a informação esteja disponível quando for necessário. É um elemento essencial para o sucesso de um SGSI (Sistema de Gestão de Segurança da Informação).
 
