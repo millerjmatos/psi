@@ -1,4 +1,4 @@
-#### GOVERNANÇA
+#### GOVERNANÇA 
 
 Sua empresa tem uma politica de Segurança da Informação atualizada e aprovada pela alta administração?
 
