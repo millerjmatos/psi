@@ -1,6 +1,6 @@
-# Público Alvo
+# Público alvo
 
-Esta Política se aplica à todas as unidades da IMEDIATA CONSULTORIA E SERVIÇOS Ltda.
+Esta Política se aplica à todas as unidades da NOME DA EMPRESA.
 
 As diretrizes aqui estabelecidas deverão ser seguidas por todos os colaboradores, bem como os prestadores de serviço, e se aplicam à informação em qualquer meio ou suporte.
 
